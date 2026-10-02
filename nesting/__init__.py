@@ -1,1 +1,1 @@
-# package
+"""Sheet metal blank nesting engine."""
