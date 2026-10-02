@@ -1,0 +1,6 @@
+streamlit>=1.50
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+shapely>=2.0
+ezdxf>=1.3
